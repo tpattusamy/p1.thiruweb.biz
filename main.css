@@ -14,6 +14,10 @@ header h2 {
     font-size: 18px; margin: 0px; color: #888;
     font-style: italic;
 }
+header h3 {
+    font-size: 14px; margin: 0px; color: #f0f;
+    font-style: italic;
+}
 
 nav ul {
     list-style: none; padding: 0px; display: block;
